@@ -11,7 +11,7 @@ class Program
 
     static async Task Main(string[] args)
     {
-        string? token = Environment.GetEnvironmentVariable("MTUxNTgyMTMwNjYxOTIzNjM1Mw.GXsaBc.cMXlCch7yUvIB8sE2hNkJPSqV3VaDf-Q99mE08");
+        string? token = Environment.GetEnvironmentVariable("MTUxNTgyMTMwNjYxOTIzNjM1Mw.G8oL9D.3Sh-axUJO35iGtZ1vLRI8ScfVO3ZIRpemwXI_8");
         if (string.IsNullOrWhiteSpace(token))
         {
             Console.WriteLine("smth didnt work");
